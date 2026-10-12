@@ -1,0 +1,13 @@
+Fornecer uma avaliação de integridade do equipamento com defeitos considerando o histórico e os mecanismos mapeados por RBI ou CCD.
+
+Mecanismos mapeados:
+- HTHA - High Temperature Hydrogen Attack; 
+- Caustic Stress Corrosion Cracking - Eventos de alta temperatura (steam-out por exemplo) e/ou mecanismos de concentração (depósitos, frestas) podem levar ao surgimento de trincas intergranulares pelo lado interno - verificar DDA-3 no costado, trinca superficial interna;
+
+Existe um mecanismo de trincamento pelo meio (SCC) mapeado pelo CCD da área, e um defeito tipo trinca superficial interno (DDA3 da junta longitudinal) que aumentou 25% seu comprimento desde a ultima inspeção. Avaliar possibilidade de propagação estável em serviço;
+
+Na eventualidade de reparo, refazer o PWHT ou utilizar procedimento de soldagem que o dispense;
+
+Existe cenário de AR-BF associado a este equipamento, avaliar curva CET x MAT considerando os defeitos reportados; 
+
+Fora da faixa de fluência para aço carbono;

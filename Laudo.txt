@@ -1,0 +1,19 @@
+Laudo:
+
+Defeitos aprovados para PMTA do equipamento na temperatura de operação e projeto máximas;
+
+Os defeitos tipo trinca classificados como falta de fusão (fabricação) são inócuos e não limitam a capacidade de carga do equipamento;
+
+Um defeito embebido de 4,5 mm de altura e 56 mm de comprimento, classificado como falta de fusão, limita a temperatura mínima do vaso em 12,5 °C.
+
+A vida em fadiga considerando ciclos de despressurização total é muito longa e pode ser considerada infinita;
+
+O equipamento está aprovado na sua temperatura e operação máximos de projeto;
+
+
+Avaliação de integridade 
+
+O equipamento não possui IOW's cadastradas;
+O equipamento não possui cenário de AR-BF cadastrado;
+O estudo de CCD reporta mecanismo de trinca associado ao meio. O defeito #3 é superficial e interno. Verificar.
+ 

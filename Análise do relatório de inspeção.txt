@@ -1,0 +1,27 @@
+Análise do relatório de inspeção
+
+Relatório de UT Phased Array de 25/11/2026;
+Dados extraídos com sucesso.
+
+7 defeitos tipo trincas nos bocais A1, A2 e solda longitudinal do costado;
+5 Defeitos embebidos e 2 superficiais de até 32% da espessura;
+
+TABELA DE DEFEITOS
+Local/altura (a/2a)/comprimento (2c)/ligamento mínimo (d)
+-----------------------------------------------------------
+Bocal A1 - Embebida, 2a = 5mm, 2c = 62 mm, d = 6 mm
+Bocal A2 - Superficial, a = 2mm, 2c = 23 mm, d = 3 mm
+Bocal A3 - Embebida, 2a = 7mm, 2c = 32 mm, d = 4 mm
+Bocal A4 - Embebida, 2a = 1mm, 2c = 76 mm, d = 3 mm
+
+Não se observa interação entre defeitos coplanares próximos;
+Classificados como falta de fusão e inclusão de escória;
+2 defeitos maiores que o defeito de referencia;
+
+Observações:
+
+1 - Dos 7 defeitos 1 possui profundidade maior que 20% da espessura, localizado na solda longitudinal;  
+2 - Especificação de materiais (ASTM A 285B, tipo A) de baixa tenacidade, verificar MAT;
+3 - Os defeitos superficiais podem ser inspecionados por LP e PM;
+
+ 

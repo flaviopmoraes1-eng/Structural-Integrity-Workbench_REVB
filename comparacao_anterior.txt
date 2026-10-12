@@ -1,0 +1,10 @@
+Ler relatórios de diferentes datas, extrair dados, calcular taxas de perda de espessura ou de propagação de trincas.
+
+- Os defeitos DDA1 e DDA2 no bocal A já constavam no relatório anterior, com dimensões semelhantes considerando a margem de erro do método de inspeção.
+- O defeito DDA3, na solda longitudinal do costado está 12% maior em comprimento e 21% maior em altura, indicando possível propagação estável.
+
+A taxa de propagação
+da/dn = 0,003 mm/ciclo
+dc/dn = 0,002mm/ciclo 
+A taxa da/dn medida é 12x maior que a calculada para fadiga - verificar interação com o meio ou erro de interpretação do ensaio;
+- Os demais defeitos não haviam sido detectados ou não puderam ser comparados;
